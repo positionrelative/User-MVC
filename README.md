@@ -11,6 +11,11 @@ docker compose up -d --build
 - Frontend (Vue): http://localhost:5173
 - phpMyAdmin: http://localhost:8081
 
+## Default login credentials
+
+- Email: `admin@example.com`
+- Password: `demopass`
+
 ## Assumptions and design decisions
 
 - Backend uses a lightweight custom MVC + Router architecture.
